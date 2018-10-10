@@ -1,0 +1,141 @@
+body {
+	color: blue;
+	font: 12px "Times New Roman" sans-serif;
+	margin: 0;
+
+}
+
+p {
+	margin: 20px 0;
+}
+
+#container{
+	width: 1170px;
+	margin: 0 auto;
+	background-color:#FFF0F5;
+	border-top: 5px solid #BEBEBE;
+	margin-top: 10px;
+}
+
+header {
+	padding: 20px 0;
+}
+
+nav a {
+	text-decoration: none;
+}
+
+nav ul {
+	margin:0;
+	padding:0;
+    float: right;
+	height: 84px;
+	line-height: 84px;
+    
+}
+
+nav li {
+	list-style-position: inside;
+	font: 14px Tahoma sans-serif;
+	padding: 10px;
+}
+
+#logo {
+	float: left;
+	height: 84px;
+	line-height: 84px;
+	padding-left: 40px;
+	margin-bottom: 10px;
+}
+
+li a:hover {
+	color: #BC8F8F;
+}
+
+.top-menu li {
+	display: inline-block;
+	padding: 10px 30px;
+	margin: 0;
+}
+
+.top-menu li.active {
+	background: #ffffff;
+	
+}
+
+.top-menu a {
+	color:#999999;
+}
+
+#heading {
+	background: #999999;
+	margin-top: 84px;
+	padding-left: 40px;
+}
+
+h1 {
+	display: inline-block;
+	color: #7e7e7e;
+	font: 40px/40px "Tahoma" sans-serif;
+	background: white;
+	margin: 0;
+	padding: 0 10px;
+}
+
+aside {
+	float: left;
+	width: 250px;
+	background-color:#FFF0F5;
+	height: 600px;
+}
+
+section {
+	margin-left: 280px;
+	padding-bottom: 50px;
+	height: 600px;
+	
+}
+
+.side-menu a {
+	text-decoration: none;
+    color:#999999;
+}
+
+.side-menu li {
+	margin: 20px 10px;
+	color:#999999;
+	
+}
+ 
+h2 {
+	color: #2F4F4F;
+	text-shadow: 1px 1px #BC8F8F;
+	text-align: center;
+}
+
+h3 {
+	color: #BC8F8F;
+	text-align: center;
+}
+
+p {
+	margin: 20px;
+	color: #2F4F4F;
+	text-align: justify;
+	text-indent: 20px;
+}
+
+footer {
+	background-color: #999999;
+	height: 84px;
+}
+	
+h6 {
+	color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 20px;
+	line-height: 84px;
+}
+	
+	
